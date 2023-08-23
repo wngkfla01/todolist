@@ -1,4 +1,5 @@
 **배포링크: https://curious-fox-8b32b9.netlify.app/**
+![todolist](https://github.com/wngkfla01/todolist/assets/64509945/2b83321d-f429-40c5-a57e-9933ce241f6e)
 
 - 가끔 수정모드에 본래 할 일이 아닌 뒷집, 앞집 할일을 가져오는데, 원인을 파악하는 중에 있습니다.
 - 기타 자잘한 오류들 수정 예정입니다!
