@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=투-두-list&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TodoList&fontSize=50)
 
 **배포링크: https://curious-fox-8b32b9.netlify.app/**
 ![todolist](https://github.com/wngkfla01/todolist/assets/64509945/2b83321d-f429-40c5-a57e-9933ce241f6e)
