@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFB400&height=200&fontColor=green&section=header&text=TodoList&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFB400&height=200&fontColor=006400&section=header&text=TodoList&fontSize=50)
 
 ## 📌 프로젝트 소개
 ### 투-두-list
