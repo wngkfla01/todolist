@@ -12,6 +12,9 @@
 
 ### **[투-두-list](https://curious-fox-8b32b9.netlify.app/)**
 
+## 📌 구현 페이지 및 프리뷰
+![todolist](https://github.com/wngkfla01/todolist/assets/64509945/c58d27e1-f991-4984-9743-ad9f18aa05bd)
+
 ## 📌 기술 스택
 ### Development
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> 
@@ -24,9 +27,6 @@
 
 ### Deployment
 <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" />
-
-## 📌 구현 페이지 및 프리뷰
-![todolist](https://github.com/wngkfla01/todolist/assets/64509945/c58d27e1-f991-4984-9743-ad9f18aa05bd)
 
 ## 📌 프로젝트 기능 소개
 - 할 일 목록 추가/삭제/수정
